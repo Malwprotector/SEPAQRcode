@@ -3,6 +3,8 @@
 ## Overview
 
 This Python application generates SEPA QR codes with customizable features such as adding a logo and specifying colors. The generated QR code includes payment details and displays the payment amount below the QR code image. This tool is ideal for creating payment requests with a visual representation that can be easily scanned by banking apps.
+
+
 ![SEPAQRcode logo](https://raw.githubusercontent.com/Malwprotector/SEPAQRcode/main/logo.png)
 ![SEPAQRcode illustration](https://raw.githubusercontent.com/Malwprotector/SEPAQRcode/main/illustration.png)
 
