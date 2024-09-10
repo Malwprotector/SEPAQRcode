@@ -108,7 +108,7 @@ The script allows the following configurations:
 
 ## License
 
-This project is licensed under the MIT License - see the [CC BY-NC-SA 4.0]( https://creativecommons.org/licenses/by-nc-sa/4.0/ ) file for details.
+This project is licensed under the [CC BY-NC-SA 4.0 License]( https://creativecommons.org/licenses/by-nc-sa/4.0/ ).
 
 ## Contributing
 
