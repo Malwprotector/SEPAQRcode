@@ -47,7 +47,7 @@ This Python application generates SEPA QR codes with customizable features such 
 3. Install the required packages:
 
     ```bash
-    pip install qrcode[pil] pillow
+    pip install qrcode pillow
     ```
 
 ## Usage
@@ -56,6 +56,10 @@ This Python application generates SEPA QR codes with customizable features such 
 
     ```bash
     python sepa_qr_code_generator.py
+    ```
+    or
+    ```bash
+    python3 sepa_qr_code_generator.py
     ```
 
 2. Follow the prompts to enter the payment details:
@@ -100,7 +104,7 @@ The script allows the following configurations:
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [CC BY-NC-SA 4.0]( https://creativecommons.org/licenses/by-nc-sa/4.0/ ) file for details.
 
 ## Contributing
 
