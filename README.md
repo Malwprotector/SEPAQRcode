@@ -3,6 +3,8 @@
 ## Overview
 
 This Python application generates SEPA QR codes with customizable features such as adding a logo and specifying colors. The generated QR code includes payment details and displays the payment amount below the QR code image. This tool is ideal for creating payment requests with a visual representation that can be easily scanned by banking apps.
+![SEPAQRcode logo](https://raw.githubusercontent.com/Malwprotector/SEPAQRcode/main/logo.png)
+![SEPAQRcode illustration](https://raw.githubusercontent.com/Malwprotector/SEPAQRcode/main/illustration.png)
 
 ## Table of Contents
 
@@ -35,13 +37,13 @@ This Python application generates SEPA QR codes with customizable features such 
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/sepa-qr-code-generator.git
+    git clone https://github.com/Malwprotector/SEPAQRcode.git
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd sepa-qr-code-generator
+    cd SEPAQRcode
     ```
 
 3. Install the required packages:
@@ -55,11 +57,11 @@ This Python application generates SEPA QR codes with customizable features such 
 1. Run the script:
 
     ```bash
-    python sepa_qr_code_generator.py
+    python SEPAQRcode.py
     ```
     or
     ```bash
-    python3 sepa_qr_code_generator.py
+    python3 SEPAQRcode.py
     ```
 
 2. Follow the prompts to enter the payment details:
@@ -89,7 +91,7 @@ The script allows the following configurations:
 1. **Generate QR Code with Logo and Custom Colors:**
 
     ```bash
-    python sepa_qr_code_generator.py
+    python SEPAQRcode.py
     ```
 
     Enter the required details and provide a path to a logo image if desired. The script will generate a QR code with the specified features.
@@ -112,6 +114,6 @@ Contributions are welcome! Please submit a pull request or open an issue to sugg
 
 ## Contact
 
-For any questions or feedback, please contact [your-email@example.com](mailto:your-email@example.com).
+For any questions or feedback, please contact me [here.](https://main.st4lwolf.org/contacts)
 
 
