@@ -17,7 +17,6 @@ This Python application generates SEPA QR codes with customizable features such 
 - [Usage](#usage)
 - [Configuration](#configuration)
 - [Examples](#examples)
-- [License](#license)
 - [Contributing](#contributing)
 - [Contact](#contact)
 
