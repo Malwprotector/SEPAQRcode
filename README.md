@@ -106,10 +106,6 @@ The script allows the following configurations:
     - A logo centered in the QR code (if provided).
     - The payment amount displayed below the QR code.
 
-## License
-
-This project is licensed under the [CC BY-NC-SA 4.0 License]( https://creativecommons.org/licenses/by-nc-sa/4.0/ ).
-
 ## Contributing
 
 Contributions are welcome! Please submit a pull request or open an issue to suggest improvements or report bugs.
